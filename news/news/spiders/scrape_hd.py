@@ -18,7 +18,7 @@ class HinduSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        filename = '/Users/ayushisharma/projects/Search/news/news/spiders/results/hindu-%s.txt' % HinduSpider.count
+        filename = '/Users/ayushisharma/projects/Search/news/news/resources/hindu-%s.txt' % HinduSpider.count
         HinduSpider.count = HinduSpider.count + 1
         with open(filename, 'w') as f:
             useful_data = self.extract(response)
