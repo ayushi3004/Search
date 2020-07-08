@@ -1,11 +1,11 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
-# Crawl and parse the Hindu.
+# Crawl and parse each Hindu article.
 # Extract relevant info
 # Current imp tags:
 # section, headline, create date, publish date, modified date, news_keywords, intro, body, ld json schemas
 
-class HinduSpider(scrapy.Spider):
+class HinduArticleSpider(scrapy.Spider):
     name = "scrape_hd"
     count = 1
 
@@ -18,8 +18,8 @@ class HinduSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        filename = '/Users/ayushisharma/projects/Search/news/news/resources/hindu-%s.txt' % HinduSpider.count
-        HinduSpider.count = HinduSpider.count + 1
+        filename = '/Users/ayushisharma/projects/Search/news/news/resources/hindu-%s.txt' % HinduArticleSpider.count
+        HinduArticleSpider.count = HinduArticleSpider.count + 1
         with open(filename, 'w') as f:
             useful_data = self.extract(response)
             # for itemlist in useful_data:
@@ -55,11 +55,11 @@ class HinduSpider(scrapy.Spider):
 
     def main(self):
         process = CrawlerProcess()
-        process.crawl(HinduSpider)
+        process.crawl(HinduArticleSpider)
         process.start() # the script will block here until the crawling is finished
 
 if __name__ == "__main__":
-        HinduSpider().main()
+        HinduArticleSpider().main()
 
 
 
