@@ -1,0 +1,87 @@
+
+National
+
+2020-07-07T19:30:49+05:30
+2020-07-07T19:30:49+05:30
+2020-07-08T09:48:16+05:30
+employment,nri,nris,NRI,NRIs,non-resident indians,employment,jobs,uaw,united arab emirates,Coronavirus,lockdown,lockdown extension,single-day spike,Covaxin,covid-19 vaccine,dexamethasone,health ministry,ICMR,Indian Council for Medical Research,coronavirus vaccine,steroid,risk of deaths,coronavirus cases,covid test,coronavirus tests,testing facilities,covid treatment,PPE,personal protective equipment,coronavirus detection,covid-19,SARS-CoV-2 virus,SARS-CoV-2,coronavirus lockdown,countrywide lockdown,lockdown,essential services,essential goods,COVID-19,World Health Organization,WHO,digital infrared thermometers,digital thermal scanners,masks,gloves,sanitisers personal protective gear,hydroxychloroquine,diagnostic kits,drugs,vaccines,clinical signs,fever,fatigue,travel advisory,precautionary measures,severe acute respiratory syndrome,SARS,coronavirus treatment,coronavirus symptoms,law enforcement,coronavirus testing kits,active cases,total cases,respiratory illnesses
+
+Coronavirus lockdown | NRIs desperately seek to return to the UAE and save their jobs - The Hindu
+
+
+They have appealed to the Indian government to settle its differences with the UAE and allow limited flights
+
+Hundreds of Non-Resident Indians (NRIs) working in the United Arab Emirates (UAE) and stuck in India for over three months due to the prolonged lockdown and suspension of regular air services have urged the Indian government to allow them to fly out urgently to join work, failing which they could be rendered jobless and face huge financial liabilities. They have appealed to the Indian government to settle its differences with the UAE and allow limited charter flights so that they can save their jobs. Also read: Change law that mandates 120 days’ stay in India to qualify as NRIs: GOPIO Following the UAE’s objection to Air India, India’s national carrier, flying UAE-bound passengers from India in outgoing Vande Bharat repatriation flights, the Indian Ministry of Civil Aviation has banned UAE-based airlines from operating chartered flights to India. The UAE government has announced a policy by which Indian nationals can fly into the UAE only through the UAE’s national carriers, which has not been accepted by India. A query to the Ministry of Civil Aviation on the likely timeline for the resumption of normal flights and the reason to ban chartered flights from the UAE remained unanswered till the time of going to press. This face-off has created livelihood issues for a large number of people, those who have been held back in India said. Also read: NRIs contribute for COVID-19 fighters and migrants Since March 2020, a lot of people who had visited India for various reasons have not been able to get back to work overseas, and many remain separated from their families. Many of them have already overshot their return dates. As offices in UAE have started functioning normally, people are afraid of adverse consequences. Due to the uncertainty, they have not been able to commit to a joining date as there has been no clarity from the Indian authorities. Prashant Krishnan, 44, originally from Kerala said, "We had come here in early March and were to return on March 21 and just two days before on March 19, UAE suspended all its flights [India suspended all international flights from March 23]. Like us, over 1,000 people who have been cleared by the UAE to return by the end of July have been struck. The UAE is ready to take us but our government is not allowing [us to leave]. People are suffering without money." Also read: COVID situation abroad turns worrisome for NRI parents here “My health insurance will expire on July 20, 2020 and after that, I will not be allowed entry [to the UAE]. Our visas will be cancelled if we do not arrive there by August. Everyone celebrated when people arrived in Vande Bharat flights, but no one thought about the suffering of people who wanted to return to work,” he said. Sindhu Nirmalan, 51, from Kerala who stays with her family in Dubai said, “Please keep aside the differences and help people leave. My younger daughter needs to join work and she is not getting any more extension. While coming, we brought our 18-month-old granddaughter, who is stuck here without her mother for nearly four months. It is becoming difficult to manage the child without her mother, who is in Dubai.” Mohammed Jamal, 37, who works in Dubai, is desperate to return. “I came here for the delivery of my child in March and have been held up here. If I do not report to work by July 31, my job will be terminated. I want to go immediately. It is very difficult to find a new job now.” Also read: Banks refuse NRI foreign currency deposits Similarly, Dr. Mariam Zainab is seeking to return as she needs to appear in an examination there in the UAE. “The charter flights are very expensive. Only those who could afford it paid up to ₹2 lakh to fly in a private charter aircraft. The whole world is opening up. The Indian government should open up airports responsibly to allow us go and join work,” she said. In the absence of commercial airlines flying between the two countries, small private aircraft with nine to ten passengers are occasionally operating with special permission for very high fares.
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/coronavirus-lockdown-nris-desperately-seek-to-return-to-the-uae-and-save-their-jobs/article32014099.ece"
+},
+"headline": "Coronavirus lockdown | NRIs desperately seek to return to the UAE and save their jobs",
+"description": "They have appealed to the Indian government to settle its differences with the UAE and allow limited flights",
+"keywords":"employment,nri,nris,NRI,NRIs,non-resident indians,employment,jobs,uaw,united arab emirates,Coronavirus,lockdown,lockdown extension,single-day spike,Covaxin,covid-19 vaccine,dexamethasone,health ministry,ICMR,Indian Council for Medical Research,coronavirus vaccine,steroid,risk of deaths,coronavirus cases,covid test,coronavirus tests,testing facilities,covid treatment,PPE,personal protective equipment,coronavirus detection,covid-19,SARS-CoV-2 virus,SARS-CoV-2,coronavirus lockdown,countrywide lockdown,lockdown,essential services,essential goods,COVID-19,World Health Organization,WHO,digital infrared thermometers,digital thermal scanners,masks,gloves,sanitisers personal protective gear,hydroxychloroquine,diagnostic kits,drugs,vaccines,clinical signs,fever,fatigue,travel advisory,precautionary measures,severe acute respiratory syndrome,SARS,coronavirus treatment,coronavirus symptoms,law enforcement,coronavirus testing kits,active cases,total cases,respiratory illnesses",
+"datePublished": "2020-07-07T19:30:49+05:30",
+"dateModified": "2020-07-08T09:48:16+05:30",
+"author": {
+"@type": "Person",
+"name": "Lalatendu Mishra"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/todays-paper/tp-national/y0ikp9/article32017540.ece/ALTERNATES/LANDSCAPE_300/07-lalatendu-BRG2S7IL8Q43jpgjpg"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"Coronavirus lockdown | NRIs desperately seek to return to the UAE and save their jobs",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "Coronavirus lockdown | NRIs desperately seek to return to the UAE and save their jobs",
+"They have appealed to the Indian government to settle its differences with the UAE and allow limited flights"
+]
+},
+"url":"https://www.thehindu.com/news/national/coronavirus-lockdown-nris-desperately-seek-to-return-to-the-uae-and-save-their-jobs/article32014099.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

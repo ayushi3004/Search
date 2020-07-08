@@ -1,0 +1,87 @@
+
+National
+
+2020-07-08T23:34:58+05:30
+2020-07-08T23:34:58+05:30
+2020-07-08T23:34:58+05:30
+Coronavirus,COVID-19,lockdown,samudra setu,stranded indians,indian navy
+
+Navy concludes Samudra Setu - The Hindu
+
+
+In 55 days, 3,992 Indians repatriated
+
+Operation Samudra Setu, which was launched by the Navy on May 5 as part of the national effort to repatriate Indian citizens abroad during the COVID-19 pandemic, has culminated after successfully bringing back 3,992 individuals, the Navy said on Wednesday. Landing Platform Dock INS Jalashwa and Landing Ship Tanks INS Airavat , Shardul and Magar participated in this operation that lasted over 55 days and involved traversing more then 23,000 km by sea, the Navy said in a statement. The evacuated Indians disembarked at Kochi, Thoothukudi and Porbandhar. “The greatest challenge for the Indian Navy was to avoid any incident of outbreak of infection on board the ships during the evacuation operation. Rigorous measures were planned and medical/ safety protocols unique to the operating environment of ships were implemented,” it stated. Op Samudra Setu was undertaken utilising Naval ships best suited for the operation, allowing for COVID-19 related social distancing norms, medical arrangements and carrying capacity. Ships used for the operation were specially provisioned and the sick bay or the clinic on board was especially equipped with COVID-19 related equipment and facilities, the Navy said. “Women officers and military nursing staff were also embarked for the women passengers.” Basic amenities and medical facilities were provided to all evacuees during sea passage on these ships. One of the expectant mothers who undertook passage on INS Jalashwa , Sonia Jacob, gave birth to a baby boy within a few hours of reaching Kochi on International Mother’s Day, the Navy said. The Navy has previously undertaken similar evacuation operations as part of Operation Sukoon in 2006 (Beirut) and Operation Rahat in 2015 (Yemen).
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/navy-concludes-samudra-setu/article32025596.ece"
+},
+"headline": "Navy concludes Samudra Setu",
+"description": "In 55 days, 3,992 Indians repatriated",
+"keywords":"Coronavirus,COVID-19,lockdown,samudra setu,stranded indians,indian navy",
+"datePublished": "2020-07-08T23:34:58+05:30",
+"dateModified": "2020-07-08T23:34:58+05:30",
+"author": {
+"@type": "Person",
+"name": "Special Correspondent"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/4ghnlu/article32025595.ece/ALTERNATES/LANDSCAPE_300/THJC-SAMUDRASETU-1"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"Navy concludes Samudra Setu",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "Navy concludes Samudra Setu",
+"In 55 days, 3,992 Indians repatriated"
+]
+},
+"url":"https://www.thehindu.com/news/national/navy-concludes-samudra-setu/article32025596.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

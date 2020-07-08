@@ -1,0 +1,87 @@
+
+National
+
+2020-07-07T20:33:26+05:30
+2020-07-07T20:33:26+05:30
+2020-07-07T20:43:06+05:30
+PDS,public distribution system,madhya pradesh,grain stocks,pos machines,point of sales,pds portal,civil supplies,Civil Supplies and Consumer Affairs Department,Tarun Kumar Pithode
+
+‘Reduction’ of 53,000 metric tonnes on PDS portal in Madhya Pradesh under scanner - The Hindu
+
+
+Reports sought within 15 days
+
+The Madhya Pradesh government has directed Collectors of 48 districts to inquire into the “reduction” of grain stocks — 53,000 metric tonnes State-wide — allocated for the public distribution system (PDS) on point of sale (POS) machines by local supply officers since January. During a review of data on the online Aadhar-enabled PDS portal, the State Food, Civil Supplies and Consumer Affairs Department found stocks entered on the machines were “reduced” by “authorised persons” using login credentials of the district supply office, according to an order issued by the Department’s Director Tarun Kumar Pithode. Describing the reduction as an “anomaly”, Mr. Pithode told The Hindu , “District officials were given the login credentials in January to record available stocks from time to time. However, stock reductions on the portal have been noticed.” In the order dated July 3, Mr. Pithode directed Collectors of districts except for Ashoknagar, Singrauli, Raisen and Jabalpur, to inquire fair price store-wise the reasons for the reductions made and submit reports to him within 15 days. The stocks were to be distributed under the National Food Security Act, 2013, mostly in April and May during the lockdown and in June when restrictions were eased. “The reduced stocks comprise of 12,000 metric tonne rice and 41,000 metric tonne wheat,” said Mr. Pithode. The reductions were made, said the order, after the supply under the door-delivery system and issuance of stock receipts from the POS at the shops in the districts. “It is too early to term the reduction as an irregularity,” said Mr. Pithode. “The inquiry reports will offer a better picture.”
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/reduction-of-53000-metric-tonnes-on-pds-portal-in-madhya-pradesh-under-scanner/article32014679.ece"
+},
+"headline": "‘Reduction’ of 53,000 metric tonnes on PDS portal in Madhya Pradesh under scanner",
+"description": "Reports sought within 15 days",
+"keywords":"PDS,public distribution system,madhya pradesh,grain stocks,pos machines,point of sales,pds portal,civil supplies,Civil Supplies and Consumer Affairs Department,Tarun Kumar Pithode",
+"datePublished": "2020-07-07T20:33:26+05:30",
+"dateModified": "2020-07-07T20:43:06+05:30",
+"author": {
+"@type": "Person",
+"name": "Sidharth Yadav"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/de4w61/article32014744.ece/ALTERNATES/LANDSCAPE_300/vbk-grain-stock-MASriram"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"‘Reduction’ of 53,000 metric tonnes on PDS portal in Madhya Pradesh under scanner",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "‘Reduction’ of 53,000 metric tonnes on PDS portal in Madhya Pradesh under scanner",
+"Reports sought within 15 days"
+]
+},
+"url":"https://www.thehindu.com/news/national/reduction-of-53000-metric-tonnes-on-pds-portal-in-madhya-pradesh-under-scanner/article32014679.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

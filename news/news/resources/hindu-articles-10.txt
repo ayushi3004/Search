@@ -1,0 +1,87 @@
+
+National
+
+2020-07-08T23:42:54+05:30
+2020-07-08T23:42:54+05:30
+2020-07-08T23:43:33+05:30
+rohingya,bangladesh,india,myanmar,dhaka,s. jaishankar
+
+Dhaka ‘diverges’ from India on Rohingya issue - The Hindu
+
+
+Dhaka has claimed that New Delhi supports “fast” repatriation of Rohingya refugees to Myanmar
+
+Bangladesh on Wednesday claimed that India supports “fast” repatriation of the Rohingya refugees to Myanmar. A press release issued by the Ministry of Foreign Affairs of Bangladesh said the message was contained in a letter written by External Affairs Minister S. Jaishankar to Foreign Minister A.K. Abdul Momen. However, in his letter, Dr. Jaishankar had said that India understands the “urgency of this issue and an early, safe and sustainable repatriation of the displaced persons from Rakhine is in the collective interest of all”. In contrast to the Indian Minister’s letter, two Bengali press releases issued by the Government of Bangladesh on Wednesday claimed India’s support for druto [fast] repatriation of the Rohingya community. A statement from Mohammed Touhidul Islam, Senior Information Officer of the Foreign Ministry of Bangladesh also repeated the same phrases. The interpretation of Dr. Jaishankar’s letter acquires significance as India recently faced criticism in Dhaka for not extending greater support to Bangladesh to compel Myanmar to accept the displaced Rohingya. The TV debates, which were held in the backdrop of India-China tension in Ladakh, carried out cost benefit analysis of Dhaka-Delhi ties and also drew participation of A.K. Abdul Momen himself. It was mentioned that Myanmar enjoys China’s support and that is why Bangladesh, despite having Indian assurances, could not force the Rohingya refugees to return home. India’s reference to the “people of Rakhine” is a sign of Delhi sticking to a more neutral description of the 1.2 million displaced persons who left Myanmar in 2017 when its military intensified its campaign against the community in Rakhine. Ever since, the vast population has been staying in the Chittagong hill tracts. The leaders of Myanmar have often displayed difficulty in using the better known term “Rohingya” while referring to the “people of Rakhine” and this was most prominently on display when State Counsellor Aung San Suu Kyi failed to mention “Rohingya” during her appearance at the International Court of Justice at The Hague in December 2019, where the ICJ held hearings on the Rohingya genocide case. While India has maintained close ties with Bangladesh, India-Myanmar ties are also important, given the growing strategic and military components in it. Dr. Jaishankar had written to Mr. Momen on July 2 thanking Bangladesh for supporting India’s candidature as a non-permanent member at the United Nations Security Council (UNSC) during 2021-’22. The main focus of the letter was on multilateral cooperation among countries. The letter also assured Bangladesh of India’s continued support to counter the COVID-19 pandemic.
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/dhaka-diverges-from-india-on-rohingya-issue/article32025707.ece"
+},
+"headline": "Dhaka ‘diverges’ from India on Rohingya issue",
+"description": "Dhaka has claimed that New Delhi supports “fast” repatriation of Rohingya refugees to Myanmar",
+"keywords":"rohingya,bangladesh,india,myanmar,dhaka,s. jaishankar",
+"datePublished": "2020-07-08T23:42:54+05:30",
+"dateModified": "2020-07-08T23:43:33+05:30",
+"author": {
+"@type": "Person",
+"name": "Special Correspondent"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/q8om76/article31898274.ece/ALTERNATES/LANDSCAPE_300/JAISHANKAR"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"Dhaka ‘diverges’ from India on Rohingya issue",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "Dhaka ‘diverges’ from India on Rohingya issue",
+"Dhaka has claimed that New Delhi supports “fast” repatriation of Rohingya refugees to Myanmar"
+]
+},
+"url":"https://www.thehindu.com/news/national/dhaka-diverges-from-india-on-rohingya-issue/article32025707.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

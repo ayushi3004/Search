@@ -1,0 +1,86 @@
+
+National
+
+2020-07-09T00:07:07+05:30
+2020-07-09T00:07:07+05:30
+2020-07-09T00:07:07+05:30
+Kulbhushan Yadav,espionage,Congress,Pakistan
+
+Govt. should move ICJ in Jadhav case: Congress - The Hindu
+
+
+India on Wednesday called as “farce” Pakistan’s claim that Kulbhushan Jadhav, on a death row in an alleged espionage case, has refused to file an appeal against his sentence. 
+The Congress on Wednesday urged the government to step up international pressure on Pakistan and move to the International Court of Justice to enable Indian death-row convict Kulbhushan Jadhav to file a review petition against his death sentence. Party spokesperson Abhishek Singhvi said one cannot expect anything from Pakistan. “We have to put our faith in the Indian government. It must go flat out to ensure legal rights are granted to Kulbhushan Jadhav,” he said. “They (Government of India) should move heaven and earth, they should make applications in the ICJ, the matter has not ended. They should create an adverse public opinion globally that how can a man who is defenceless not be allowed to exercise these rights,” he added. Mr. Singhvi hoped that the government will take steps in the next few weeks rather than waiting for Pakistan to make amends. He was asked about Pakistani media reports that Mr. Jadhav refused to file an appeal in the Islamabad High Court against his death sentence. India on Wednesday called as “farce” Pakistan’s claim that Kulbhushan Jadhav, on a death row in an alleged espionage case, has refused to file an appeal against his sentence. Spokesperson in the Ministry of External Affairs Anurag Srivastava said Jadhav has clearly been coerced to refuse to file a review in his case, and termed it as a “brazen attempt” to scuttle even the inadequate remedy available to him. “Pakistan’s claim that Jadhav, who is incarcerated in Pakistan’s custody, has refused to initiate review petition is a continuation of the farce that has been in play for the last four years,” Mr. Srivastava said.
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/govt-should-move-icj-in-jadhav-case-congress/article32025913.ece"
+},
+"headline": "Govt. should move ICJ in Jadhav case: Congress",
+"description": "India on Wednesday called as “farce” Pakistan’s claim that Kulbhushan Jadhav, on a death row in an alleged espionage case, has refused to file an appeal against his sentence.",
+"keywords":"Kulbhushan Yadav,espionage,Congress,Pakistan",
+"datePublished": "2020-07-09T00:07:07+05:30",
+"dateModified": "2020-07-09T00:07:07+05:30",
+"author": {
+"@type": "Person",
+"name": "PTI"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "300",
+"url":"https://www.thehindu.com/static/theme/default/base/img/og-image.jpg"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"Govt. should move ICJ in Jadhav case: Congress",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "Govt. should move ICJ in Jadhav case: Congress",
+"India on Wednesday called as “farce” Pakistan’s claim that Kulbhushan Jadhav, on a death row in an alleged espionage case, has refused to file an appeal against his sentence."
+]
+},
+"url":"https://www.thehindu.com/news/national/govt-should-move-icj-in-jadhav-case-congress/article32025913.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

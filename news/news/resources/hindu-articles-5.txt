@@ -1,0 +1,86 @@
+
+National
+
+2020-07-07T19:16:23+05:30
+2020-07-07T19:16:23+05:30
+2020-07-07T19:16:23+05:30
+Coronavirus,covid-19,COVID-19,SARS-CoV-2 virus,covid-19 disease,coronavirus official disease name,2019 new coronavirus name,novel coronavirus,2019-nCoV,pandemic,epidemic,quarantine,Coronavirus alert,China,World Health Organization,WHO,pneumonia cases,health ministry,ministry of health,thermal screening,airports,indian airports,coronavirus disease,coronavirus china,coronavirus vaccine,coronavirus infection,coronavirus in india,coronavirus treatment,coronavirus symptoms,coronavirus thailand,Wuhan City,Hubei province,respiratory illnesses,public health officials,microbe,outbreak,family of viruses,GISAID,diagnostic kits,drugs,vaccines,clinical signs,fever,fatigue,Thailand,India,travel advisory,precautionary measures,severe acute respiratory syndrome,SARS,Middle East respiratory syndrome,MERS,whole genome sequence data,Global Initiative on Sharing All Influenza Data,Union Health Minister,Dr. Harsh Vardhan,coronavirus pandemic
+
+We can’t let coronavirus pandemic stop us, says Harsh Vardhan - The Hindu
+
+
+India has supplied HCQ to 100 countries so far, he says 
+India had supplied Hydrochloroxyquine (HCQ) to more than 100 countries till now, said Union Health Minister Dr. Harsh Vardhan on Tuesday. He asserted, “We cannot let the pandemic stop us.” Dr. Vardhan made the remarks in a discussion with Swedish Minister for Health and Social Affairs Lena Hallengren. on the status and containment measures for COVID-19 in the two countries, and the future vision for handling the virus. Also read: Coronavirus | India’s tally, fatality rate per million population lowest in world: Health Ministry Dr. Vardhan said India currently had a recovery rate of more than 61% and a mortality rate of as low as 2.78% in spite of being a country of 1.35 billion. All about COVID-19 - full coverage “India has rather used the novel Coronavirus outbreak as an opportunity. From 8th January, one day after China alerted the world on the novel pathogen, the government has coordinated amongst its different branches for point of entry surveillance at the sea and land ports, and airports. It strengthened its community surveillance, issued detailed health and travel advisories, and also evacuated thousands of citizens and foreign nationals too. India now has over 100 PPE manufacturing units manufacturing 5 lakh PPE (personal protection equipment) a day and has also similarly ramped up its production of N95 masks and ventilators,’’ he noted. The Union Health Ministry said that early detection and timely effective clinical management of COVID-19 cases had resulted in increasing daily recoveries. India was now working on ramping up hospital infrastructure to adequately and effectively manage the COVID cases load. “Preparedness included arrangement of oxygen support, ICU and ventilator facilities, and as on July 7, there are 1201 dedicated COVID hospitals, 2,611 dedicated COVID healthcare centres and 9,909 COVID care centres to look after patients from those with very severe to very mild symptoms,’’ the Ministry stated. Also read: Hydroxychloroquine does not reduce mortality, RECOVERY trial finds It added that people have been advised to wear at least home-made, reusable face-cover/mask properly and at all times when interacting with others. The Indian Council of Medical Research (ICMR) said that in the last 24 hours, 2,41,430 samples had been tested and the country currently has a testing lab network of 1,115 labs, including 793 in the government sector and 322 private ones.
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/we-cant-let-coronavirus-pandemic-stop-us-says-harsh-vardhan/article32014039.ece"
+},
+"headline": "We can’t let coronavirus pandemic stop us, says Harsh Vardhan",
+"description": "India has supplied HCQ to 100 countries so far, he says",
+"keywords":"Coronavirus,covid-19,COVID-19,SARS-CoV-2 virus,covid-19 disease,coronavirus official disease name,2019 new coronavirus name,novel coronavirus,2019-nCoV,pandemic,epidemic,quarantine,Coronavirus alert,China,World Health Organization,WHO,pneumonia cases,health ministry,ministry of health,thermal screening,airports,indian airports,coronavirus disease,coronavirus china,coronavirus vaccine,coronavirus infection,coronavirus in india,coronavirus treatment,coronavirus symptoms,coronavirus thailand,Wuhan City,Hubei province,respiratory illnesses,public health officials,microbe,outbreak,family of viruses,GISAID,diagnostic kits,drugs,vaccines,clinical signs,fever,fatigue,Thailand,India,travel advisory,precautionary measures,severe acute respiratory syndrome,SARS,Middle East respiratory syndrome,MERS,whole genome sequence data,Global Initiative on Sharing All Influenza Data,Union Health Minister,Dr. Harsh Vardhan,coronavirus pandemic",
+"datePublished": "2020-07-07T19:16:23+05:30",
+"dateModified": "2020-07-07T19:16:23+05:30",
+"author": {
+"@type": "Person",
+"name": "Special Correspondent"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/km021c/article32014038.ece/ALTERNATES/LANDSCAPE_300/HARSHVARDHAN"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"We can’t let coronavirus pandemic stop us, says Harsh Vardhan",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "We can’t let coronavirus pandemic stop us, says Harsh Vardhan",
+"India has supplied HCQ to 100 countries so far, he says"
+]
+},
+"url":"https://www.thehindu.com/news/national/we-cant-let-coronavirus-pandemic-stop-us-says-harsh-vardhan/article32014039.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

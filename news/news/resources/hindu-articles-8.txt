@@ -1,0 +1,87 @@
+
+National
+
+2020-07-08T23:39:08+05:30
+2020-07-08T23:39:08+05:30
+2020-07-08T23:40:11+05:30
+Ramesh Pokhriyal Nishank,CBSE,reduced syllabus
+
+Syllabus reduction only a one-time measure: CBSE - The Hindu
+
+
+‘Schools can follow NCERT calendar’
+
+Deleted sections of the syllabus have been covered under an alternative academic calendar provided to schools, the Central Board of Secondary Education (CBSE) said on Wednesday. However, no question from these topics will be asked in the board exams for 2020-21, it clarified. CBSE was responding to the public and political furore that has erupted over its plan to remove topics such as federalism, citizenship and secularism from the Higher Secondary syllabus this year. The objective of the 30% syllabus rationalisation for 190 subjects for Classes 9 to 12 was “to reduce the exam stress of students due to the prevailing health emergency situation and prevent learning gaps,” said a statement from CBSE Secretary Anurag Tripathi. He emphasised that this was a one-time measure only for 2020-21, and added that schools have been directed to follow the National Council of Educational Research and Training’s alternative academic calendar while teaching the curriculum. Human Resource Development Minister Ramesh Pokhriyal Nishank said on Tuesday that the syllabus revision was to “reduce course load”, with the Ministry adding that teachers can explain deleted portions “to the extent required to connect different topics”.
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/syllabus-reduction-only-a-one-time-measure-cbse/article32025652.ece"
+},
+"headline": "Syllabus reduction only a one-time measure: CBSE",
+"description": "‘Schools can follow NCERT calendar’",
+"keywords":"Ramesh Pokhriyal Nishank,CBSE,reduced syllabus",
+"datePublished": "2020-07-08T23:39:08+05:30",
+"dateModified": "2020-07-08T23:40:11+05:30",
+"author": {
+"@type": "Person",
+"name": "Special Correspondent"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/xx778f/article31768800.ece/ALTERNATES/LANDSCAPE_300/06THLTCBSESHIKSHASADAN"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"Syllabus reduction only a one-time measure: CBSE",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "Syllabus reduction only a one-time measure: CBSE",
+"‘Schools can follow NCERT calendar’"
+]
+},
+"url":"https://www.thehindu.com/news/national/syllabus-reduction-only-a-one-time-measure-cbse/article32025652.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

@@ -1,0 +1,86 @@
+
+National
+
+2020-07-07T20:10:30+05:30
+2020-07-07T20:10:30+05:30
+2020-07-07T20:16:55+05:30
+odisha,Coronavirus,lockdown,lockdown extension,single-day spike,Covaxin,covid-19 vaccine,dexamethasone,health ministry,ICMR,Indian Council for Medical Research,coronavirus vaccine,steroid,risk of deaths,coronavirus cases,covid test,coronavirus tests,testing facilities,covid treatment,PPE,personal protective equipment,coronavirus detection,covid-19,SARS-CoV-2 virus,SARS-CoV-2,coronavirus lockdown,countrywide lockdown,lockdown,essential services,essential goods,COVID-19,World Health Organization,WHO,digital infrared thermometers,digital thermal scanners,masks,gloves,sanitisers personal protective gear,hydroxychloroquine,diagnostic kits,drugs,vaccines,clinical signs,fever,fatigue,travel advisory,precautionary measures,severe acute respiratory syndrome,SARS,coronavirus treatment,coronavirus symptoms,law enforcement,coronavirus testing kits,active cases,total cases,respiratory illnesses
+
+Coronavirus | Odisha tally goes past 10,000-mark, positivity rate shoots up - The Hindu
+
+
+25% of the cases detected in the past one week. State government starts rapid antigen tests 
+Odisha’s COVID-19 count went past the 10,000-mark on Tuesday with 25% of the cases detected in the past one week. Coronavirus, July 7 updates The State reported 571 positive cases — highest single-day spike — taking the tally to 10,097. As of now, 6,486 patients recovered while the active cases stood at 3,557. While 42 persons died of the virus, 12 were attributed to non-COVID reasons. Despite the State government claiming to have taken proactive steps, the cases jumped exponentially in the past fortnight. The tally has doubled in the past 17 days. State Helpline numbers for COVID-19 The positive cases were 7,316 on July 1. In a week’s time, 2,781 cases were detected registering more than 25% jump. Ganjam has been the worst-affected district reporting 2,621 positive cases and 24 deaths. The administration announced shut down in all urban areas of the district till July 13. The worrying factor is the sharp rise in the positivity rate. As of now, the State has carried out 3,02,780 tests, of which, 10,097 samples came out positive — 3.33% positivity rate. Interactive map of confirmed coronavirus cases in India According to the government, 5,546 tests were conducted in the past 24 hours. And 571 samples were detected positive accounting 10.29% on Tuesday. As many as 456 new COVID-19 positive cases were detected from the 4,827 samples tested on Tuesday. The positivity rate was 9.44%. In Khordha district, the number of positive cases has crossed 1,000. After seven persons tested positive, the office of the Tech Mahindra has been sealed. The State government started rapid antigen tests for detection of virus in some hospitals.
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/coronavirus-odisha-tally-goes-past-10000-mark-positivity-rate-shoots-up/article32014399.ece"
+},
+"headline": "Coronavirus | Odisha tally goes past 10,000-mark, positivity rate shoots up",
+"description": "25% of the cases detected in the past one week. State government starts rapid antigen tests",
+"keywords":"odisha,Coronavirus,lockdown,lockdown extension,single-day spike,Covaxin,covid-19 vaccine,dexamethasone,health ministry,ICMR,Indian Council for Medical Research,coronavirus vaccine,steroid,risk of deaths,coronavirus cases,covid test,coronavirus tests,testing facilities,covid treatment,PPE,personal protective equipment,coronavirus detection,covid-19,SARS-CoV-2 virus,SARS-CoV-2,coronavirus lockdown,countrywide lockdown,lockdown,essential services,essential goods,COVID-19,World Health Organization,WHO,digital infrared thermometers,digital thermal scanners,masks,gloves,sanitisers personal protective gear,hydroxychloroquine,diagnostic kits,drugs,vaccines,clinical signs,fever,fatigue,travel advisory,precautionary measures,severe acute respiratory syndrome,SARS,coronavirus treatment,coronavirus symptoms,law enforcement,coronavirus testing kits,active cases,total cases,respiratory illnesses",
+"datePublished": "2020-07-07T20:10:30+05:30",
+"dateModified": "2020-07-07T20:16:55+05:30",
+"author": {
+"@type": "Person",
+"name": "Satyasundar Barik"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/9gth0g/article32014504.ece/ALTERNATES/LANDSCAPE_300/VBK-ODISHA-CORONA-BR"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"Coronavirus | Odisha tally goes past 10,000-mark, positivity rate shoots up",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "Coronavirus | Odisha tally goes past 10,000-mark, positivity rate shoots up",
+"25% of the cases detected in the past one week. State government starts rapid antigen tests"
+]
+},
+"url":"https://www.thehindu.com/news/national/coronavirus-odisha-tally-goes-past-10000-mark-positivity-rate-shoots-up/article32014399.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

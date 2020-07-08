@@ -1,0 +1,86 @@
+
+National
+
+2020-07-07T19:35:58+05:30
+2020-07-07T19:35:58+05:30
+2020-07-07T19:35:58+05:30
+Rajya Sabha proceedings,Rajya Sabha chairman Venkaiah Naidu,Jairam Ramesh,Congress leader Jairam Ramesh,petroleum committee meeting,parliamentary standing committees through videoconference
+
+Jairam Ramesh urges Venkaiah Naidu to hold House panel meet via videoconference - The Hindu
+
+
+The committee on Petroleum, headed by BJP MP Ramesh Bhiduri, met on Tuesday. 
+In a renewed demand for holding meetings of parliamentary standing committees through videoconference, chairman of the Standing Committee on Science and Technology and Congress leader Jairam Ramesh wrote to Rajya Sabha Chairman Venkaiah Naidu asking for a virtual sitting of the committee. The committee on Petroleum, headed by BJP MP Ramesh Bhiduri, met on Tuesday. The panel on Science and Technology is scheduled to hold a meeting on July 10 to deliberate on the “preparedness to deal with the COVID-19 pandemic". The meeting so far has not been cancelled or deferred. Only two members have confirmed attendance. “I am doubtful if we can muster up a quorum,” Mr. Ramesh wrote to Mr. Naidu. But every member, irrespective of party affiliation, has asked for a virtual sitting of the committee, he said. “Surely, this can be arranged-- a number of other countries have held even full Parliament sessions in virtual mode,” he added. Both Houses of Parliament have emphatically ruled out holding virtual standing committee meetings, claiming that the process violates the confidentiality norm. And the meetings can be held virtually, only if the relevant rules of procedure are amended with the approval of both Houses. This however, can be done only when Parliament meets. Mr. Bhiduri told The Hindu that 14 out of the 31 members of the panel on Petroleum attended the Tuesday meeting. Out of these, though the majority were from the BJP, one each from the SP, the BSP and the AAP attended the meeting. Many of the members from the southern States could not manage to join the meeting. CPI(M) MP K.K. Ragesh said, “Standing committee meetings should not be called for the sake of having a meeting. Only the members who were either in Delhi or driving distance to Delhi managed to make it to today’s meeting,” Congress MP from Kerala M.K. Raghavan and YSR (Congress) MP from Andhra Pradesh Anuradha Chinta were the others from the southern States who opted out because of travel restrictions. The Standing Committee on Home Affairs is scheduled to meet on July 15. Its earlier meeting was cancelled due to unavailability of members. The committee is to meet to deliberate “Management of COVID-19 pandemic and coordination with State governments, phased unlocking, resumption of economic activities, inter-State movement of people and goods and state of preparedness”. DMK MP Dayanidhi Maran, for the second time, has appealed to committee chairman Anand Sharma to allow him to join the meeting via videoconference. He has also requested that the MPs participating in the committee meetings be exempted from following quarantine standard operating procedures.
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/jairam-ramesh-urges-venkaiah-naidu-to-hold-house-panel-meet-via-videoconference/article32014143.ece"
+},
+"headline": "Jairam Ramesh urges Venkaiah Naidu to hold House panel meet via videoconference",
+"description": "The committee on Petroleum, headed by BJP MP Ramesh Bhiduri, met on Tuesday.",
+"keywords":"Rajya Sabha proceedings,Rajya Sabha chairman Venkaiah Naidu,Jairam Ramesh,Congress leader Jairam Ramesh,petroleum committee meeting,parliamentary standing committees through videoconference",
+"datePublished": "2020-07-07T19:35:58+05:30",
+"dateModified": "2020-07-07T19:35:58+05:30",
+"author": {
+"@type": "Person",
+"name": "Sobhana K. Nair"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/aabe7m/article32014142.ece/ALTERNATES/LANDSCAPE_300/JAIRAMRAMESH"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"Jairam Ramesh urges Venkaiah Naidu to hold House panel meet via videoconference",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "Jairam Ramesh urges Venkaiah Naidu to hold House panel meet via videoconference",
+"The committee on Petroleum, headed by BJP MP Ramesh Bhiduri, met on Tuesday."
+]
+},
+"url":"https://www.thehindu.com/news/national/jairam-ramesh-urges-venkaiah-naidu-to-hold-house-panel-meet-via-videoconference/article32014143.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

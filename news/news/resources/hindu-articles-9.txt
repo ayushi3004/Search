@@ -1,0 +1,87 @@
+
+National
+
+2020-07-07T20:05:47+05:30
+2020-07-07T20:05:47+05:30
+2020-07-07T21:25:00+05:30
+CBSE,syllabus cut,class 9,class 10,class 11,class 12,federalism,citizenship,secularism,demonetisation,GST,Central Board of Secondary Education,coronavirus,covid-19
+
+CBSE cuts syllabus by 30% for classes 9 to 12 - The Hindu
+
+
+Chapters on federalism, citizenship, secularism, demonetisation, GST removed from Class 11, 12 syllabus
+
+The Central Board of Secondary Education syllabus for classes 9 to 12 has been reduced by 30% this year due to the disruption caused by the COVID-19 pandemic. However, core concepts will be retained, according to Human Resource Development Minister Ramesh Pokhriyal Nishank. This means that Class 11 students of political science will not study about federalism in the Constitution during the academic year of 2020-21. Political theory sections on citizenship, secularism and nationalism have also been removed, according to the details on deleted sections, available on the CBSE website. In Class 12, the topic of India's relations with its neighbours has been deleted, along with sections on social movements, regional aspirations, the changing nature of India's economic development, and the Planning Commission. Business Studies students will not study the concept of demonetization, Goods and Services Tax, or the impact of government policy changes on business with special reference to liberalization, privatization and globalization in India. In History classes, students will not study chapters on understanding partition, or on peasants, zamindars and the State. For Class 11 students, the core English course will not include exercises to write a letter to the editor, or apply for a job with a resume. Also read: CBSE to release reduced syllabus in a month For Class 10 students, the social science chapter on forests and wildlife in contemporary India has been deleted, along with chapters on democracy and diversity; gender, religion and caste; popular struggles and movements; and, challenges to democracy. In science, the chapter on the functioning of the human eye has been removed, along with a section on the basic concepts of evolution. A number of practical experiments - which will be harder to conduct when students are able to spend limited time in the laboratory - have been removed, including tests on acetic acid, mounting a leaf peel, and studying the comparative cleaning capacity of soap in hard and soft water. Also read: CBSE partners with Facebook for curriculum on digital safety, augmented reality CBSE has advised school principals and teachers to ensure that "the topics that have been reduced are also explained to the students to the extent required to connect different topics. However the reduced syllabus will not be part of the topics for Internal Assessment and year-end Board Examination," said an official statement. Last month, Mr. Nishank had invited suggestions for syllabus rationalisation from educationists. More than 1,500 suggestions were received. Final changes made in the syllabi have been finalised by the respective Course Committees of the CBSE, with the approval of the Curriculum Committee and Governing Body of the Board. The National Council of Educational Research and Training has provided inputs on how to teach this curriculum using different strategies, given the disruptions to regular classroom teaching caused by the pandemic. It has also prepared an alternative academic calendar for Classes 1 to 12 to support pedagogy in affiliated schools. About 25 crore students have been affected since schools across the country closed in mid-March. With COVID-19 cases continuing to rise, there is no indication on when schools will be able to reopen, so teaching and learning has been resumed via distance education methods including online classes, television and radio programmes, and even Whatsapp messages. Revised Science syllabus for Class X Revised Social Science syllabus for Class X Revised Mathematics syllabus for Class X
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/cbse-cuts-syllabus-by-30-for-classes-9-to-12/article32014378.ece"
+},
+"headline": "CBSE cuts syllabus by 30% for classes 9 to 12",
+"description": "Chapters on federalism, citizenship, secularism, demonetisation, GST removed from Class 11, 12 syllabus",
+"keywords":"CBSE,syllabus cut,class 9,class 10,class 11,class 12,federalism,citizenship,secularism,demonetisation,GST,Central Board of Secondary Education,coronavirus,covid-19",
+"datePublished": "2020-07-07T20:05:47+05:30",
+"dateModified": "2020-07-07T21:25:00+05:30",
+"author": {
+"@type": "Person",
+"name": "Priscilla Jebaraj"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/xx778f/article31768800.ece/ALTERNATES/LANDSCAPE_300/06THLTCBSESHIKSHASADAN"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"CBSE cuts syllabus by 30% for classes 9 to 12",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "CBSE cuts syllabus by 30% for classes 9 to 12",
+"Chapters on federalism, citizenship, secularism, demonetisation, GST removed from Class 11, 12 syllabus"
+]
+},
+"url":"https://www.thehindu.com/news/national/cbse-cuts-syllabus-by-30-for-classes-9-to-12/article32014378.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}

@@ -1,0 +1,87 @@
+
+National
+
+2020-07-08T23:48:55+05:30
+2020-07-08T23:48:55+05:30
+2020-07-08T23:48:55+05:30
+Coronavirus,COVID-19,lockdown,university exams,UGC,human resource development ministry
+
+Safety norms drawn up for university exams - The Hindu
+
+
+HRD Ministry sends guidelines to NTA, UGC and AICTE
+
+Two metres space between examination desks; disinfection of walls, floors and doors; thermometers and sanitisers at all entry and exit points are some of the measures the Centre wants universities to take to safeguard students taking examinations physically. Students having symptoms such as fever, cough and cold should “either be made to sit in a separate room or given a chance to appear on another day”, according to guidelines framed by the Human Resource Development Ministry and sent to the National Testing Agency, University Grants Commission and the All India Council for Technical Education. Engineering and medical entrance examinations, as well as final year university examinations are scheduled to be held by the end of September, leaving many students apprehensive about health risks. While insisting that examinations are necessary to ensure “merit and lifelong credibility”, the guidelines directed institutions to address student concerns, including “anxiety and stress developed during the lockdown period and fear of COVID-19 after opening of campuses”. Apart from students, staff also face the risk of serious illness, it said. Staff conducting exams must self-certify their health status and submit to temperature screening. If they fail to meet health criteria, they will be requested to leave the centre immediately. For students showing symptoms, the guidelines are more circumspect, offering the choice of a separate room or an alternative examination date without stipulating who will get to make that decision. “The downloading of Aarogya Setu app may be advised for every staff and student,” the guidelines said. The standard operating procedures, which have been vetted by the Health Ministry, call for the floors, walls, doors, gates, staircase railings and lift buttons at all examination centres to be sprayed with disinfectant. Desks and chairs in the candidate seating area should be sanitised after every session, it said. Social distancing of two metres must be ensured at entry and exit as well as during the examination. All students must wear face masks and clean their hands, while staff must wear masks and gloves, it added.
+
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/safety-norms-drawn-up-for-university-exams/article32025761.ece"
+},
+"headline": "Safety norms drawn up for university exams",
+"description": "HRD Ministry sends guidelines to NTA, UGC and AICTE",
+"keywords":"Coronavirus,COVID-19,lockdown,university exams,UGC,human resource development ministry",
+"datePublished": "2020-07-08T23:48:55+05:30",
+"dateModified": "2020-07-08T23:48:55+05:30",
+"author": {
+"@type": "Person",
+"name": "Special Correspondent"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/news/national/wppx9w/article32025760.ece/ALTERNATES/LANDSCAPE_300/THJC-UNIVERSITYGRANTCOMMISSION"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+
+
+{ "@context":"http://schema.org/",
+"@type":"WebPage",
+"name":"Safety norms drawn up for university exams",
+"speakable":{ "@type":"SpeakableSpecification",
+"cssSelector":[ "Safety norms drawn up for university exams",
+"HRD Ministry sends guidelines to NTA, UGC and AICTE"
+]
+},
+"url":"https://www.thehindu.com/news/national/safety-norms-drawn-up-for-university-exams/article32025761.ece"
+}
+
+
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}
