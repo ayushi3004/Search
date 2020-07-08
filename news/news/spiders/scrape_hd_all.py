@@ -18,7 +18,7 @@ class HinduListingSpider(scrapy.Spider):
     def parse(self, response):
         # top_stories_urls = []
         filename = '/Users/ayushisharma/projects/Search/news/news/resources/hindu-urls.txt'
-        f = open(filename, 'w')
+        f = open(filename, 'a')
         for i in range(1,7):
             url = response.xpath(f'//*[@id="section_3"]/div[2]/div/div[2]/div[{i}]/div/div/a/@href').get()
             f.write(url + "\n")
