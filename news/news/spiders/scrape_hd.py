@@ -9,16 +9,19 @@ class HinduArticleSpider(scrapy.Spider):
     name = "scrape_hd"
     count = 1
 
+    def __init__(self, section="national" , *args, **kwargs):
+        super(HinduArticleSpider, self).__init__(*args, **kwargs)
+        self.section = section
+        self.log('Section: %s' % self.section)
+
     def start_requests(self):
-        urls = [
-            'https://www.thehindu.com/news/international/hip-hop-musician-kanye-west-announces-white-house-bid/article31993131.ece?homepage=true',
-            'https://www.thehindu.com/news/international/days-after-demarche-china-doubles-down-on-claims-on-eastern-bhutan-boundary/article31993470.ece?homepage=true'
-        ]
+        f = open("/Users/ayushisharma/projects/Search/news/news/resources/hindu-urls-{}.txt".format(self.section), "r")
+        urls = f.readlines()
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        filename = '/Users/ayushisharma/projects/Search/news/news/resources/hindu-%s.txt' % HinduArticleSpider.count
+        filename = '/Users/ayushisharma/projects/Search/news/news/resources/hindu-articles-%s.txt' % HinduArticleSpider.count
         HinduArticleSpider.count = HinduArticleSpider.count + 1
         with open(filename, 'w') as f:
             useful_data = self.extract(response)
@@ -53,10 +56,13 @@ class HinduArticleSpider(scrapy.Spider):
         useful_data.extend([section, published_date, created_date, modified_date, news_keywords, headline, intro, body, ld_json_schemas])
         return useful_data
 
-    def main(self):
+    def crawl(self):
         process = CrawlerProcess()
         process.crawl(HinduArticleSpider)
         process.start() # the script will block here until the crawling is finished
+
+    def main(self):
+        self.crawl()
 
 if __name__ == "__main__":
         HinduArticleSpider().main()
